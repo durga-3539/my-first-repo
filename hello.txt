@@ -1,1 +1,2 @@
-Hello, Wellcome to Cloudthat DevOps Training!
+Hello, Wellcome to Cloudthat DevOps Training
+this is durga welcome to the lab02
